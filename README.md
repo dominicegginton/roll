@@ -1,6 +1,6 @@
 # roll
 
-roll is a command line utility for rolling dice
+![carbon (5)](https://user-images.githubusercontent.com/28626241/160248178-e7f34d78-81cd-4b5e-adbe-932850f6e244.svg)
 
 ## Documentation
 
